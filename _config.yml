@@ -62,8 +62,22 @@ address:
   - line: "1015 Lausanne"
   
 statutes:
-    url: "https://ue1qlg.bn1301.livefilestore.com/y3m4rXj3DW7hiMCYv9VOunDo3JWjAtrc3Nos4R6ctt3CRtbQ9x3iiZi4o64sdS5zDsutmi9s5NJ_9miLMHP3dxt_vZJaIgcme9VcuPbgA39s823pHrkBvQz7S7jtyOTMALlwIQ_v1ed2Jojg6hrPVuwgg/Statuts_17_dec_2015.pdf?psid=1"
+  url: "https://ue1qlg.bn1301.livefilestore.com/y3m4rXj3DW7hiMCYv9VOunDo3JWjAtrc3Nos4R6ctt3CRtbQ9x3iiZi4o64sdS5zDsutmi9s5NJ_9miLMHP3dxt_vZJaIgcme9VcuPbgA39s823pHrkBvQz7S7jtyOTMALlwIQ_v1ed2Jojg6hrPVuwgg/Statuts_17_dec_2015.pdf?psid=1"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Open source attributions
+attributions:
+  - name: "Agency theme by Start Bootstrap"
+    url: "http://startbootstrap.com/template-overviews/agency/"
+    
+  - name: "Agency them post by GitHub user y7kim"
+    url: "https://github.com/y7kim/agency-jekyll-theme"
+    
+  - name: "Bootstrap"
+    url: "https://getbootstrap.com/"
+    
+  - name: "JQuery"
+    url: "https://jquery.com"
