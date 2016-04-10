@@ -24,7 +24,7 @@
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 
-                                <input type="hidden" name="_next" value="{{ url }}{{ baseurl }}" />
+                                <input type="hidden" name="_next" value="{{ site.baseurl | prepend: site.url }}" />
                                 <input type="hidden" name="_subject" value="New contact request !" />
                                 <input type="text" name="_gotcha" style="display:none" />
                                 
