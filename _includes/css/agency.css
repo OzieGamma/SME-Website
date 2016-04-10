@@ -363,6 +363,10 @@ section h3.section-subheading {
     list-style: none;
 }
 
+.timeline a {
+    color: #000;
+}
+
 .timeline:before {
     content: "";
     position: absolute;
