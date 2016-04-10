@@ -690,7 +690,10 @@ ul.social-buttons li a:active {
 }
 
 .timeline-modal .modal-content {
-    padding: 50px 0;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
     min-height: 100%;
     border: 0;
     border-radius: 0;
