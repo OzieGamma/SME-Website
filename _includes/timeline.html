@@ -16,7 +16,7 @@
                             <div class="timeline-image">
 
                                 <!-- Size has to be 200x200 -->
-                                <img class="img-circle img-responsive" src="img/timeline/{{ post.title | replace:' ','-' }}-thumbnail.png" alt="">
+                                <img class="img-circle img-responsive" src="img/timeline/{{ post.title | replace:' ','-' | replace:'Summit','SUMMIT' | replace:'Mte','MTE' }}-thumbnail.png" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -32,10 +32,9 @@
                     {% endfor %}
                     <li class="timeline-inverted">
                         <div class="timeline-image">
-                            <h4>Help us
-                                    <br>Organize
-                                    <br>our next
-                                    <br>Event !</h4>
+                            <h4>Be Part
+                                    <br>Of Our
+                                    <br>Story!</h4>
                         </div>
                     </li>
                 </ul>

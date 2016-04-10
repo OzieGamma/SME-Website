@@ -88,3 +88,6 @@ attributions:
     
   - name: "JQuery"
     url: "https://jquery.com"
+  
+  - name: "Jekyll"
+    url: "https://jekyllrb.com/"
