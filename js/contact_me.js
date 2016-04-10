@@ -1,4 +1,19 @@
 $(function() {
+    $.fn.serializeObject = function() {
+        var o = {};
+        var a = this.serializeArray();
+        $.each(a, function() {
+            if (o[this.name] !== undefined) {
+                if (!o[this.name].push) {
+                    o[this.name] = [o[this.name]];
+                }
+                o[this.name].push(this.value || '');
+            } else {
+                o[this.name] = this.value || '';
+            }
+        });
+        return o;
+    };
 
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
@@ -8,7 +23,7 @@ $(function() {
         submitSuccess: function($form, event) {
             event.preventDefault(); // prevent default submit behaviour
             // get values from FORM
-            var data = $("#contactForm").serialize();
+            var data = $("#contactForm").serializeObject();
 
             $.ajax({
                 url: "https://formspree.io/summit@epfl.ch",
