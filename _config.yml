@@ -9,7 +9,7 @@ description: "Website for the SUMMIT association. SUMMIT is the association of s
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 800000
-  secondary: fec503  
+  secondary: 700000  
   secondary-dark: 333
 
 # Team names, titles and social links
