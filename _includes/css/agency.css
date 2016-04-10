@@ -296,11 +296,11 @@ header .intro-text .intro-lead-in {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 45px;
+        margin-bottom: 50px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 50px;
+        font-size: 60px;
         font-style: italic;
-        line-height: 50px;
+        line-height: 60px;
     }
 }
 
