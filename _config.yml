@@ -15,53 +15,41 @@ color:
 # Team names, titles and social links
 people:
 - name: Oswald Maskens
-  pic: 1
+  pic: oswald
   position: President
   social:
     - title: linkedin
-      url: #
-    - title: facebook
-      url: #
-    - title: github
-      url: #
+      url: https://ch.linkedin.com/in/oswaldmaskens
 
 - name: Alexis Frentz
-  pic: 2
+  pic: alexis
   position: Board member
   social:
     - title: linkedin
-      url: #
-    - title: facebook
-      url: #
+      url: https://fr.linkedin.com/in/alexisfrentz
 
 - name: Maria Kuleshova
-  pic: 3
+  pic: maria
   position: Board member
   social:
     - title: linkedin
-      url: #
-    - title: facebook
-      url: #
+      url: https://www.linkedin.com/in/maria-kuleshova-0527a8a2
 
 
 - name: Renaud Lafond Rive
-  pic: 3
+  pic: renaud
   position: Accounts Verificator
   social:
     - title: linkedin
-      url: #
-    - title: facebook
-      url: #
+      url: https://ch.linkedin.com/in/rlafondrive
       
 
 - name: Romain Kirchhoff
-  pic: 3
+  pic: romain
   position: Accounts Verificator
   social:
     - title: linkedin
-      url: #
-    - title: facebook
-      url: #
+      url: https://www.linkedin.com/in/romain-kirchhoff-15a80062
       
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
