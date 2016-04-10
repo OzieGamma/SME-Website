@@ -14,15 +14,15 @@
                     <li>
                         <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                            <img class="img-circle img-responsive" src="img/about/{{ post.thumbnail }}.jpg" alt="">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>{{ post.date }}</h4>
+                                <h4>{{ post.display-date }}</h4>
                                 <h4 class="subheading">{{ post.title }}</h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">{{ post.description }}</p>
+                                <p class="text-muted">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                             </div>
                         </div>
                         </a>
