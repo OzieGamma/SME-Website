@@ -698,7 +698,7 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
-.portfolio-modal .modal-content {
+.timeline-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
     border: 0;
@@ -709,32 +709,32 @@ ul.social-buttons li a:active {
     box-shadow: none;
 }
 
-.portfolio-modal .modal-content h2 {
+.timeline-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content p {
+.timeline-modal .modal-content p {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content p.item-intro {
+.timeline-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }
 
-.portfolio-modal .modal-content ul.list-inline {
+.timeline-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content img {
+.timeline-modal .modal-content img {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .close-modal {
+.timeline-modal .close-modal {
     position: absolute;
     top: 25px;
     right: 25px;
@@ -744,11 +744,11 @@ ul.social-buttons li a:active {
     cursor: pointer;
 }
 
-.portfolio-modal .close-modal:hover {
+.timeline-modal .close-modal:hover {
     opacity: .3;
 }
 
-.portfolio-modal .close-modal .lr {
+.timeline-modal .close-modal .lr {
     z-index: 1051;
     width: 1px;
     height: 75px;
@@ -759,7 +759,7 @@ ul.social-buttons li a:active {
     transform: rotate(45deg);
 }
 
-.portfolio-modal .close-modal .lr .rl {
+.timeline-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;
