@@ -346,9 +346,15 @@ section h3.section-subheading {
     }
 }
 
-.service-heading {
+.goal-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+.goal-subheading {
+    
+    text-transform: none;
+    margin-bottom: 15px;
 }
 
 #portfolio .portfolio-item {
