@@ -350,6 +350,10 @@ section h3.section-subheading {
     color: #000;
 }
 
+.timeline a:hover {
+    color: #{{ site.color.primary }};
+}
+
 .timeline:before {
     content: "";
     position: absolute;
