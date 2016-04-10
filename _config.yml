@@ -13,7 +13,7 @@ color:
   secondary-dark: 333
 
 # Team names, titles and social links
-people:
+team:
 - name: Oswald Maskens
   pic: oswald
   position: President
@@ -50,6 +50,19 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/romain-kirchhoff-15a80062
+      
+sponsors:
+  - name: aetuts
+    logo: aetuts
+    
+  - name: envato
+    logo: envato
+    
+  - name: themeforest
+    logo: themeforest
+    
+  - name: wordpress
+    logo: wordpress
       
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
