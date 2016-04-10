@@ -21,7 +21,7 @@
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>{{ post.display-date }}</h4>
-                                    <h4 class="subheading">{{ post.title }}</h4>
+                                    <h4 class="subheading">{{ post.title | replace:'Summit','SUMMIT' | replace:'Mte','MTE' }}</h4>
                                 </div>
                                 <div class="timeline-body">
                                     <p class="text-muted">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
