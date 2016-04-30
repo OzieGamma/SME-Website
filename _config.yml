@@ -1,9 +1,9 @@
-url: http://oziegamma.github.io/
-baseurl: /SUMMIT-Website/
+url: http://summit.epfl.ch/
+baseurl: /
 
 # Site settings
 title: SUMMIT
-email: your-email@domain.com
+email: summit@epfl.ch
 description: "Website for the SUMMIT association. SUMMIT is the association of student studying management of technology at EPFL."
 
 # Color settings (hex-codes without the leading hash-tag)
