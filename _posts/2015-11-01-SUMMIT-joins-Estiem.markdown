@@ -1,5 +1,5 @@
 ---
-title: SUMMIT joins ESTIEM #override for capitalization
+title: SME joins ESTIEM #override for capitalization
 display-date: November 2015
 ---
 In November 2015, the newly formed SUMMIT joined [ESTIEM][1] (the organization for European Students in Industrial Engineering & Management),

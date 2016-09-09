@@ -1,10 +1,10 @@
-url: http://summit.epfl.ch/
+url: http://sme.epfl.ch/
 baseurl: /
 
 # Site settings
-title: SUMMIT
-email: summit@epfl.ch
-description: "Website for the SUMMIT association. SUMMIT is the association of student studying management of technology at EPFL."
+title: SME
+email: sme@epfl.ch
+description: "Website for the SME association. SME is the association of student studying management of technology at EPFL."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
