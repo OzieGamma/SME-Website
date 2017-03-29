@@ -1,4 +1,4 @@
-url: http://sme.epfl.ch/
+﻿url: http://sme.epfl.ch/
 baseurl: /
 
 # Site settings
@@ -14,42 +14,26 @@ color:
 
 # Team names, titles and social links
 team:
-- name: Oswald Maskens
-  pic: oswald
+- name: Yves Robert-Tissot
+  pic: yvest
   position: President
   social:
     - title: linkedin
-      url: https://ch.linkedin.com/in/oswaldmaskens
+      url: https://www.linkedin.com/in/yves-robert-tissot-8ba473131
 
-- name: Alexis Frentz
-  pic: alexis
-  position: Board member
+- name: Nico Hübner
+  pic: nico
+  position: Vice president
   social:
     - title: linkedin
-      url: https://fr.linkedin.com/in/alexisfrentz
+      url: https://www.linkedin.com/in/nicohuebner
 
-- name: Maria Kuleshova
-  pic: maria
-  position: Board member
+- name: Yves Baudet
+  pic: yvesb
+  position: Treasurer
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/maria-kuleshova-0527a8a2
-
-
-- name: Renaud Lafond Rive
-  pic: renaud
-  position: Accounts Verificator
-  social:
-    - title: linkedin
-      url: https://ch.linkedin.com/in/rlafondrive
-      
-
-- name: Romain Kirchhoff
-  pic: romain
-  position: Accounts Verificator
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/romain-kirchhoff-15a80062
+      url: https://www.linkedin.com/in/yves-baudet-bab066a9
       
 sponsors:
   #- name: aetuts
