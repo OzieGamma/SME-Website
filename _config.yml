@@ -1,4 +1,4 @@
-﻿url: http://sme.epfl.ch/
+url: http://sme.epfl.ch/
 baseurl: /
 
 # Site settings
@@ -49,7 +49,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: "SUMMIT, Association des étudiants en MTE de l'EPFL"
+  - line: "SME, Association des étudiants en MTE de l'EPFL"
   - line: "1015 Lausanne"
   
 statutes:
@@ -75,3 +75,6 @@ attributions:
   
   - name: "Jekyll"
     url: "https://jekyllrb.com/"
+  
+  - name: "Formspree"
+    url: "https://formspree.io"

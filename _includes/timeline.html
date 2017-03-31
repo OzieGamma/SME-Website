@@ -16,12 +16,12 @@
                             <div class="timeline-image">
 
                                 <!-- Size has to be 200x200 -->
-                                <img class="img-circle img-responsive" src="img/timeline/{{ post.title | replace:' ','-' | replace:'Summit','SUMMIT' | replace:'Mte','MTE' }}-thumbnail.png" alt="">
+                                <img class="img-circle img-responsive" src="img/timeline/{{ post.title | replace:' ','-' | replace:'Sme','SME' | replace:'Mte','MTE' }}-thumbnail.png" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>{{ post.display-date }}</h4>
-                                    <h4 class="subheading">{{ post.title | replace:'Summit','SUMMIT' | replace:'Mte','MTE' }}</h4>
+                                    <h4 class="subheading">{{ post.title | replace:'Sme','SME' | replace:'Mte','MTE' }}</h4>
                                 </div>
                                 <div class="timeline-body">
                                     <p class="text-muted">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
